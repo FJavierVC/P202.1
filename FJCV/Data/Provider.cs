@@ -1,6 +1,4 @@
-﻿
-
-namespace FJCV.Data
+﻿namespace FJCV.Data
 {
     public class Provider
     {
