@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace FJCV.Data
 {
-    public class Sall
+    public class Sell
     {
         #region Propiedades:
         public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Email { get; set; }
-
+        public string CustomerId { get; set; }
+        public DateTime SellDate { get; set; }
         #endregion
     }
 }
