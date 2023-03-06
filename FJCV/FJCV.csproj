@@ -49,6 +49,7 @@
     <Compile Include="Data\Customer.cs" />
     <Compile Include="Data\Product.cs" />
     <Compile Include="Data\Provider.cs" />
+    <Compile Include="Data\Sall.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
